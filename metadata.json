@@ -1,0 +1,6 @@
+{
+  "name": "Purplle Retail Tracker",
+  "description": "Python boilerplate for CV retail tracking with YOLOv8 & ByteTrack",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
